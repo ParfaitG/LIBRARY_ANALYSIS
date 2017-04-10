@@ -3,7 +3,7 @@
 Graphical and table data analysis of Chicago and SWAN Public Libraries using R.
 
 Details
-- Statistics including monthly and yearly checkouts, checkins, renewals, holds, loans, catalog sections, items added, patrons added, wireless users, computer sessions, and visitors
+- Statistics include monthly and yearly checkouts, checkins, renewals, holds, loans, catalog sections, items added, patrons added, wireless users, computer sessions, and visitors
 - SWAN covers various metro Chicago-area public libraries and maintains two data sources: Symphony (2011 - April 2015) and SirsiDynix (May 2015 - present)
 - Analysis includes geocoded maps and latex reports
 
