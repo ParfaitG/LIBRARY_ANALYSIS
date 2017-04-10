@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <lib>
+    <name>Acorn Public Library District</name>
+    <address>15624 S Central Ave., Oak Forest, IL 60452</address>
+    <phone>(708) 687-3700</phone>
+  </lib>
+  <lib>
+    <name>Alsip-Merrionette Park Public Library District</name>
+    <address>11960 S Pulaski Rd., Alsip IL 60803</address>
+    <phone>(708) 371-5666</phone>
+  </lib>
+  <lib>
+    <name>Bedford Park Public Library District</name>
+    <address>7816 W 65th Pl., Bedford Park, IL 60501</address>
+    <phone>(708) 458-6826</phone>
+  </lib>
+  <lib>
+    <name>Beecher Community Library District</name>
+    <address>660 Penfield St., Beecher, IL 60401</address>
+    <phone>(708) 946-9090</phone>
+  </lib>
+  <lib>
+    <name>Bellwood Public Library</name>
+    <address>600 Bohland Ave., Bellwood, IL 60104</address>
+    <phone>(708) 547-7393</phone>
+  </lib>
+  <lib>
+    <name>Berkeley Public Library</name>
+    <address>1637 N Taft Ave., Berkeley, IL 60163</address>
+    <phone>(708) 544-6017</phone>
+  </lib>
+  <lib>
+    <name>Berwyn Public Library</name>
+    <address>2701 S Harlem Ave., Berwyn, IL 60402</address>
+    <phone>(708) 795-8000</phone>
+  </lib>
+  <lib>
+    <name>Blue Island Public Library</name>
+    <address>2433 York St., Blue Island, IL 60406</address>
+    <phone>(708) 388-1078</phone>
+  </lib>
+  <lib>
+    <name>Bridgeview Public Library</name>
+    <address>7840 W 79th St., Bridgeview, IL 60455</address>
+    <phone>(708) 458 2880</phone>
+  </lib>
+  <lib>
+    <name>Broadview Public Library District</name>
+    <address>2226 S 16th Ave., Broadview, IL 60155</address>
+    <phone>(708) 345-1325</phone>
+  </lib>
+  <lib>
+    <name>Brookfield Public Library</name>
+    <address>3609 Grand Blvd., Brookfield, IL 60513</address>
+    <phone>(708) 485-6917</phone>
+  </lib>
+  <lib>
+    <name>Prairie Trails Public Library District</name>
+    <address>8449 S Moody Ave., Burbank, IL 60459</address>
+    <phone>(708) 430-3688</phone>
+  </lib>
+  <lib>
+    <name>Indian Prairie Public Library District</name>
+    <address>401 Plainfield Rd., Darien, IL 60561</address>
+    <phone>(630) 887-8760</phone>
+  </lib>
+  <lib>
+    <name>Calumet City Public Library</name>
+    <address>660 Manistee Ave., Calumet City, IL 60409</address>
+    <phone>(708) 862-6220</phone>
+  </lib>
+  <lib>
+    <name>Calumet Park Public Library</name>
+    <address>1500 W 127th St., Calumet Park, IL 60827</address>
+    <phone>(708) 385-5768</phone>
+  </lib>
+  <lib>
+    <name>Chicago Heights Public Library</name>
+    <address>25 W 15th St., Chicago Heights, IL 60411</address>
+    <phone>(708) 754-0323</phone>
+  </lib>
+  <lib>
+    <name>Chicago Ridge Public Library</name>
+    <address>10400 S Oxford Ave., Chicago Ridge, IL 60415</address>
+    <phone>(708) 423-7753</phone>
+  </lib>
+  <lib>
+    <name>Cicero Public Library</name>
+    <address>5225 W Cermak Rd., Cicero, IL 60804</address>
+    <phone>(708) 652-8084</phone>
+  </lib>
+  <lib>
+    <name>Clarendon Hills Public Library</name>
+    <address>7 N Prospect Ave., Clarendon Hills, IL 60514</address>
+    <phone>(630) 323-8188</phone>
+  </lib>
+  <lib>
+    <name>Grande Prairie Public Library District</name>
+    <address>3479 W 183rd St., Hazel Crest, IL 60429</address>
+    <phone>(708) 798-5563</phone>
+  </lib>
+  <lib>
+    <name>Crestwood Public Library District</name>
+    <address>4955 W 135th St., Crestwood, IL 60445</address>
+    <phone>(708) 371-4090</phone>
+  </lib>
+  <lib>
+    <name>Crete Public Library District</name>
+    <address>1177 N Main St., Crete, IL 60417</address>
+    <phone>(708) 672-8017</phone>
+  </lib>
+  <lib>
+    <name>Indian Prairie Public Library District</name>
+    <address>401 Plainfield Rd., Darien, IL 60561</address>
+    <phone>(630) 887-8760</phone>
+  </lib>
+  <lib>
+    <name>Dolton Public Library District</name>
+    <address>14037 Lincoln Ave., Dolton, IL 60419</address>
+    <phone>(708) 849-2385</phone>
+  </lib>
+  <lib>
+    <name>Downers Grove Public Library</name>
+    <address>1050 Curtiss St., Downers Grove, IL 60515</address>
+    <phone>(630) 960-1200</phone>
+  </lib>
+  <lib>
+    <name>Eisenhower Public Library District</name>
+    <address>4613 N Oketo Ave., Harwood Heights, IL 60706</address>
+    <phone>(708) 867-7828</phone>
+  </lib>
+  <lib>
+    <name>Elmwood Park Public Library</name>
+    <address>1 W Conti Pkwy., Elmwood Park, IL 60707</address>
+    <phone>(708) 453-7645</phone>
+  </lib>
+  <lib>
+    <name>Evergreen Park Public Library</name>
+    <address>9400 S Troy Ave., Evergreen Park, IL 60805</address>
+    <phone>(708) 422-8522</phone>
+  </lib>
+  <lib>
+    <name>Flossmoor Public Library</name>
+    <address>1000 Sterling Ave., Flossmoor, IL 60422</address>
+    <phone>(708) 798-3600</phone>
+  </lib>
+  <lib>
+    <name>Forest Park Public Library</name>
+    <address>7555 Jackson Blvd., Forest Park, IL 60130</address>
+    <phone>(708) 366-7171</phone>
+  </lib>
+  <lib>
+    <name>Stickney-Forest View Public Library District</name>
+    <address>6800 W 43rd St., Stickney, IL 60402</address>
+    <phone>(708) 749-1050</phone>
+  </lib>
+  <lib>
+    <name>Frankfort Public Library District</name>
+    <address>21119 S Pfeiffer Rd., Frankfort, IL 60423</address>
+    <phone>(815) 469-2423</phone>
+  </lib>
+  <lib>
+    <name>Glenwood-Lynwood Public Library District</name>
+    <address>19901 Stony Island Ave., Lynwood IL 60411</address>
+    <phone>(708) 758-0090</phone>
+  </lib>
+  <lib>
+    <name>Grande Prairie Public Library District</name>
+    <address>3479 W 183rd St., Hazel Crest, IL 60429</address>
+    <phone>(708) 798-5563</phone>
+  </lib>
+  <lib>
+    <name>Harvey Public Library District</name>
+    <address>15441 Turlington Ave., Harvey, IL 60426</address>
+    <phone>(708) 331-0757</phone>
+  </lib>
+  <lib>
+    <name>Eisenhower Public Library District</name>
+    <address>4613 N Oketo Ave., Harwood Heights, IL 60706</address>
+    <phone>(708) 867-7828</phone>
+  </lib>
+  <lib>
+    <name>Grande Prairie Public Library District</name>
+    <address>3479 W 183rd St., Hazel Crest, IL 60429</address>
+    <phone>(708) 798-5563</phone>
+  </lib>
+  <lib>
+    <name>Hillside Public Library</name>
+    <address>405 Hillside Ave., Hillside, IL 60162</address>
+    <phone>(708) 449-7510</phone>
+  </lib>
+  <lib>
+    <name>Hinsdale Public Library</name>
+    <address>20 E Maple St., Hinsdale, IL 60521</address>
+    <phone>(630) 986-1976</phone>
+  </lib>
+  <lib>
+    <name>Hodgkins Public Library</name>
+    <address>6500 Wenz Ave., Hodgkins, IL 60525</address>
+    <phone>(708) 579-1844</phone>
+  </lib>
+  <lib>
+    <name>Homewood Public Library District</name>
+    <address>17917 Dixie Hwy., Homewood, IL 60430</address>
+    <phone>(708) 798-0121</phone>
+  </lib>
+  <lib>
+    <name>Indian Prairie Public Library District</name>
+    <address>401 Plainfield Rd., Darien, IL 60561</address>
+    <phone>(630) 887-8760</phone>
+  </lib>
+  <lib>
+    <name>Justice Public Library District</name>
+    <address>7641 Oak Grove Ave., Justice, IL 60458</address>
+    <phone>(708) 496-1790</phone>
+  </lib>
+  <lib>
+    <name>La Grange Public Library</name>
+    <address>10 W Cossitt Ave., La Grange, IL 60525</address>
+    <phone>(708) 215-3200</phone>
+  </lib>
+  <lib>
+    <name>La Grange Park Public Library District</name>
+    <address>555 N La Grange Rd., La Grange Park, IL 60526</address>
+    <phone>(708) 352-0100</phone>
+  </lib>
+  <lib>
+    <name>Lansing Public Library</name>
+    <address>2750 Indiana Ave., Lansing, IL 60438</address>
+    <phone>(708) 474-2447</phone>
+  </lib>
+  <lib>
+    <name>Glenwood-Lynwood Public Library District</name>
+    <address>19901 Stony Island Ave., Lynwood IL 60411</address>
+    <phone>(708) 758-0090</phone>
+  </lib>
+  <lib>
+    <name>Lyons Public Library</name>
+    <address>4209 Joliet Ave., Lyons, IL 60534</address>
+    <phone>(708) 447-3577</phone>
+  </lib>
+  <lib>
+    <name>McCook Public Library District</name>
+    <address>8419 W 50th St., McCook, IL 60525</address>
+    <phone>(708) 442-1242</phone>
+  </lib>
+  <lib>
+    <name>Markham Public Library</name>
+    <address>16640 Kedzie Ave., Markham, IL 60428</address>
+    <phone>(708) 331-0130</phone>
+  </lib>
+  <lib>
+    <name>Matteson Public Library</name>
+    <address>801 S School Ave., Matteson, IL 60443</address>
+    <phone>(708) 748-4431</phone>
+  </lib>
+  <lib>
+    <name>Maywood Public Library District</name>
+    <address>121 S 5th Ave., Maywood, IL 60153</address>
+    <phone>(708) 343-1847</phone>
+  </lib>
+  <lib>
+    <name>Melrose Park Public Library</name>
+    <address>801 Broadway St., Melrose Park, IL 60160</address>
+    <phone>(708) 343-3391</phone>
+  </lib>
+  <lib>
+    <name>Alsip-Merrionette Park Public Library District</name>
+    <address>11960 S Pulaski Rd., Alsip, IL 60803</address>
+    <phone>(708) 371-5666</phone>
+  </lib>
+  <lib>
+    <name>Midlothian Public Library</name>
+    <address>14701 S Kenton Ave., Midlothian, IL 60445</address>
+    <phone>(708) 535-2027</phone>
+  </lib>
+  <lib>
+    <name>Nancy L. McConathy Public Library District</name>
+    <address>21737 Jeffrey Ave., Sauk Village, IL 60411</address>
+    <phone>(708) 757-4771</phone>
+  </lib>
+  <lib>
+    <name>Eisenhower Public Library District</name>
+    <address>4613 N Oketo Ave., Harwood Heights, IL 60706</address>
+    <phone>(708) 867-7828</phone>
+  </lib>
+  <lib>
+    <name>North Riverside Public Library District</name>
+    <address>2400 S DesPlaines Ave., North Riverside, IL 60546</address>
+    <phone>(708) 447-0869</phone>
+  </lib>
+  <lib>
+    <name>Northlake Public Library District</name>
+    <address>231 N Wolf Rd., Northlake, IL 60164</address>
+    <phone>(708) 562-2301</phone>
+  </lib>
+  <lib>
+    <name>Prairie Trails Public Library District</name>
+    <address>8449 S Moody Ave., Burbank, IL 60459</address>
+    <phone>(708) 430-3688</phone>
+  </lib>
+  <lib>
+    <name>Acorn Public Library District</name>
+    <address>15624 S Central Ave., Oak Forest, IL 60452</address>
+    <phone>(708) 687-3700</phone>
+  </lib>
+  <lib>
+    <name>Oak Lawn Public Library</name>
+    <address>9427 S Raymond Ave., Oak Lawn, IL 60453</address>
+    <phone>(708) 422-4990</phone>
+  </lib>
+  <lib>
+    <name>Oak Park Public Library</name>
+    <address>834 Lake St., Oak Park, IL 60301</address>
+    <phone>(708) 383-8200</phone>
+  </lib>
+  <lib>
+    <name>Tinley Park Public Library</name>
+    <address>7851 Timber Dr., Tinley Park, IL 60477</address>
+    <phone>(708) 532-0160</phone>
+  </lib>
+  <lib>
+    <name>Palos Heights Public Library</name>
+    <address>12501 S 71st Ave., Palos Heights, IL 60463</address>
+    <phone>(708) 448-1473</phone>
+  </lib>
+  <lib>
+    <name>Palos Park Public Library</name>
+    <address>12330 Forest Glenn Blvd., Palos Park, IL 60464</address>
+    <phone>(708) 448-1530</phone>
+  </lib>
+  <lib>
+    <name>Park Forest Public Library</name>
+    <address>400 Lakewood Blvd., Park Forest, IL 60466</address>
+    <phone>(708) 748-3731</phone>
+  </lib>
+  <lib>
+    <name>Prairie Trails Public Library District</name>
+    <address>8449 S Moody Ave., Burbank, IL 60459</address>
+    <phone>(708) 430-3688</phone>
+  </lib>
+  <lib>
+    <name>Richton Park Public Library District</name>
+    <address>22310 Latonia Ln., Richton Park, IL 60471</address>
+    <phone>(708) 481-5333</phone>
+  </lib>
+  <lib>
+    <name>River Forest Public Library</name>
+    <address>735 Lathrop Ave., River Forest, IL 60305</address>
+    <phone>(708) 366-5205</phone>
+  </lib>
+  <lib>
+    <name>River Grove Public Library District</name>
+    <address>8638 W Grand Ave., River Grove, IL 60171</address>
+    <phone>(708) 453-4484</phone>
+  </lib>
+  <lib>
+    <name>Riverdale Public Library District</name>
+    <address>208 W 144th St., Riverdale, IL 60827</address>
+    <phone>(708) 841-3311</phone>
+  </lib>
+  <lib>
+    <name>Riverside Public Library</name>
+    <address>1 Burling Rd., Riverside, IL 60546</address>
+    <phone>(708) 442-6366</phone>
+  </lib>
+  <lib>
+    <name>William Leonard Public Library District</name>
+    <address>13820 Central Park Ave., Robbins, IL 60472</address>
+    <phone>(708) 597-2760</phone>
+  </lib>
+  <lib>
+    <name>Nancy L. McConathy Public Library District</name>
+    <address>21737 Jeffrey Ave., Sauk Village, IL 60411</address>
+    <phone>(708) 757-4771</phone>
+  </lib>
+  <lib>
+    <name>Schiller Park Public Library</name>
+    <address>4200 Old River Rd., Schiller Park, IL 60176</address>
+    <phone>(847) 678-0433</phone>
+  </lib>
+  <lib>
+    <name>Steger-South Chicago Heights Public Library District</name>
+    <address>54 E 31st St., Steger, IL 60475</address>
+    <phone>(708) 755-5040</phone>
+  </lib>
+  <lib>
+    <name>South Holland Public Library</name>
+    <address>16250 Wausau Ave., South Holland, IL 60473</address>
+    <phone>(708) 331-5262</phone>
+  </lib>
+  <lib>
+    <name>Steger-South Chicago Heights Public Library District</name>
+    <address>54 E 31st St., Steger, IL 60475</address>
+    <phone>(708) 755-5040</phone>
+  </lib>
+  <lib>
+    <name>Stickney-Forest View Public Library District</name>
+    <address>6800 W 43rd St., Stickney, IL 60402</address>
+    <phone>(708) 749-1050</phone>
+  </lib>
+  <lib>
+    <name>Summit Public Library District</name>
+    <address>6233 S Archer Rd., Summit, IL 60501</address>
+    <phone>(708) 458-1545</phone>
+  </lib>
+  <lib>
+    <name>Thomas Ford Memorial Library</name>
+    <address>800 Chestnut St., Western Springs, IL 60558</address>
+    <phone>(708) 246-0520</phone>
+  </lib>
+  <lib>
+    <name>Thornton Public Library</name>
+    <address>115 E Margaret St., Thornton, IL 60476</address>
+    <phone>(708) 877-2579</phone>
+  </lib>
+  <lib>
+    <name>Tinley Park Public Library</name>
+    <address>7851 Timber Dr., Tinley Park, IL 60477</address>
+    <phone>(708) 532-0160</phone>
+  </lib>
+  <lib>
+    <name>University Park Public Library District</name>
+    <address>1100 Blackhawk Dr., University Park, IL 60466</address>
+    <phone>(708) 534-2580</phone>
+  </lib>
+  <lib>
+    <name>Westchester Public Library</name>
+    <address>10700 Canterbury St., Westchester, IL 60154</address>
+    <phone>(708) 562-3573</phone>
+  </lib>
+  <lib>
+    <name>Thomas Ford Memorial Library</name>
+    <address>800 Chestnut St., Western Springs, IL 60558</address>
+    <phone>(708) 246-0520</phone>
+  </lib>
+  <lib>
+    <name>Westmont Public Library</name>
+    <address>428 N Cass, Westmont, IL 60559</address>
+    <phone>(630) 969-5625</phone>
+  </lib>
+  <lib>
+    <name>William Leonard Public Library District</name>
+    <address>13820 Central Park Ave., Robbins, IL 60472</address>
+    <phone>(708) 597-2760</phone>
+  </lib>
+  <lib>
+    <name>Indian Prairie Public Library District</name>
+    <address>401 Plainfield Rd., Darien, IL 60561</address>
+    <phone>(630) 887-8760</phone>
+  </lib>
+  <lib>
+    <name>Woodridge Public Library</name>
+    <address>3 Plaza Dr., Woodridge, IL 60517</address>
+    <phone>(630) 964-7899</phone>
+  </lib>
+  <lib>
+    <name>Worth Public Library District</name>
+    <address>6917 W 111th St., Worth, IL 60482</address>
+    <phone>(708) 448-2855</phone>
+  </lib>
+  <lib>
+    <name>Prairie State College</name>
+    <address>Learning Center 202 S Halsted St., Chicago Heights, IL 60411</address>
+    <phone>(708) 709-3552</phone>
+  </lib>
+  <lib>
+    <name>South Suburban College</name>
+    <address>Learning Resources Center 15800 S State St., South Holland, IL 60473</address>
+    <phone>(708) 210-5751</phone>
+  </lib>
+  <lib>
+    <name>Brookfield Zoo</name>
+    <address>3300 Golf Rd., Brookfield, IL 60513</address>
+    <phone>(708) 688-8583</phone>
+  </lib>
+  <lib>
+    <name>Morton Arboretum</name>
+    <address>4100 Illinois Rt. 53, Lisle, IL 60532</address>
+    <phone>(630) 719-2430</phone>
+  </lib>
+</data>
