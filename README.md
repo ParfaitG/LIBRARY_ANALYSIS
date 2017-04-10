@@ -1,6 +1,6 @@
 # LIBRARY_ANALYSIS
 
-Graphical and table data analysis of Chicago and SWAN Public Libraries and using R.
+Graphical and table data analysis of Chicago and SWAN Public Libraries using R.
 
 Details
 - Statistics including monthly and yearly checkouts, checkins, renewals, holds, loans, catalog sections, items added, patrons added, wireless users, computer sessions, and visitors
