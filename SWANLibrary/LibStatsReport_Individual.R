@@ -91,7 +91,7 @@ latexbuild <- function(path, strfile, type, table, title, subtitle, thirdtitle){
   
   # OUTPUT TO LATEXT PDF
   cd <- paste0(getwd(), "/", path)
-  shell(cmd=paste("cd",cd, "&& D:\\XeLatex\\MiKTeX\\miktex\\bin\\pdflatex", strfile), 
+  shell(cmd=paste("cd",cd, "&& C:\\Path\\To\\XeLatex\\MiKTeX\\miktex\\bin\\pdflatex", strfile), 
         mustWork=TRUE, intern=TRUE, translate=TRUE)
 }
 
