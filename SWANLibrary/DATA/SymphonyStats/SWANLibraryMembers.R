@@ -37,7 +37,6 @@ df$Zip<- sapply(seq(nrow(df)), function(i)
 
 # RETRIEVE GEOCODES BY ADDRESS VIA BING MAPS API
 BingMapsAPIkey <- "*****"
-BingMapsAPIkey <- "AiUV813Xbo8CEariNmeksQ0jDJeR8mgbRjbEAQQ9b-OXarp_eKacFoucr-Apndb_"
 
 geodfs <- lapply(seq(nrow(df)), function(i){
   url <- paste0("http://dev.virtualearth.net/REST/v1/Locations/US/IL/", 
